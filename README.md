@@ -1,4 +1,4 @@
-# Leveraging_Spark_NLP_and_MLlib_for_Big_Data_Text_Analysis
+# Leveraging Spark NLP and MLlib for Big Data Text Analysis
 
 ## Group Members
 
@@ -35,7 +35,7 @@ pip install pyspark
 pip install spark-nlp
  ```
 
-## Download Dataset
+### 3. Download Dataset
 - Download the **Food Hazard** dataset and upload it to **HDFS**.
 
 ## Project Pipeline
@@ -54,6 +54,7 @@ pip install spark-nlp
 - [Spark NLP](https://nlp.johnsnowlabs.com/)
 - [Spark MLlib](https://spark.apache.org/mllib/)
 
+---
 ## Acknowledgment
 
 We acknowledge the authors for providing the dataset:
